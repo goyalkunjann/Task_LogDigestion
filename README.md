@@ -62,10 +62,3 @@ You can customize this code to work with your specific log data by modifying the
 
 If you'd like to contribute to this project or have suggestions for improvements, feel free to create issues or submit pull requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it according to the terms of the license.
-
----
-
-By following these steps, you can easily process and analyze your log data using this project. If you encounter any issues or have questions, please don't hesitate to reach out or create an issue on GitHub. Happy log analysis!
